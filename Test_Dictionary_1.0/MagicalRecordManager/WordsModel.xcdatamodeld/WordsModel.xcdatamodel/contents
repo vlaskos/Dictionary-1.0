@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="15D21" minimumToolsVersion="Xcode 7.0">
+    <entity name="Words" representedClassName="Words" syncable="YES">
+        <attribute name="rootWord" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="translatedWord" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Words" positionX="-63" positionY="-18" width="128" height="73"/>
+    </elements>
+</model>
