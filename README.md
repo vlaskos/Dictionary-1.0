@@ -7,8 +7,8 @@ Tools: Magical Records, AFNetworking.
 
 ##Screenshots of the interface
 
-<img src="https://github.com/vlaskos/Dictionary-1.0/blob/master/Resources/1.png" width="100">
-<img src="https://github.com/vlaskos/Dictionary-1.0/blob/master/Resources/2.png" width="100">
+<img src="https://github.com/vlaskos/Dictionary-1.0/blob/master/Resources/1.png" width="300">
+<img src="https://github.com/vlaskos/Dictionary-1.0/blob/master/Resources/2.png" width="300">
 
 Developed By
 ------------
