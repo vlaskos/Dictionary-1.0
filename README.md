@@ -5,6 +5,10 @@ Program translates words via API and saves them to the DataBase.
 Language: Objective-C.
 Tools: Magical Records, AFNetworking. 
 
+##GIF of the interface
+
+![](https://github.com/vlaskos/Dictionary-1.0/blob/master/Resources/3.gif)
+
 ##Screenshots of the interface
 
 <img src="https://github.com/vlaskos/Dictionary-1.0/blob/master/Resources/1.png" width="300">
